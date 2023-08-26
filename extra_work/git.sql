@@ -5,4 +5,5 @@
     $   git remote -v
     $   git remote add origin git@github.com/sajid-khan-afridi/hackathon_zero.git
     $   git add --all
+    $   git commit -main
     $   git push origin main --force
